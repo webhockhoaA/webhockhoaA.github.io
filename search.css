@@ -1,0 +1,21 @@
+.search {
+    height: 35px;
+    background-color: white;
+    width: 45.73684%;
+    margin: auto;
+    border-radius: 5px;
+    display: flex;
+}
+.search__input {
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.icon {
+    font-size: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 37px;
+    background-color: white;
+}

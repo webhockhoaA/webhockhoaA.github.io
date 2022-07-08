@@ -1,0 +1,56 @@
+.signin {
+    width: 100vw;
+    height: 100vh;
+    left: 0;
+    top: 0;
+    background-color: white;
+    display: flex;
+}
+.signin__form {
+    width: 500px;
+    height: 600px;
+    margin: auto;
+background-image: linear-gradient(0, #f6f8f2, #34ec05);    
+    border: 2px solid red;
+    border-radius: 40px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+.signinn {
+    /* width: 100%; */
+    margin: auto;
+    margin-top: 15px;
+}
+p {
+    font-size: 50px;
+    color: black;
+    margin-top: 30px;
+    height: 50px;
+    font-weight: 100;
+}
+.signin__input {
+    padding-bottom: 70px;
+}
+.signin__input-acc {
+    font-size: 20px;
+    margin-left: 125px;
+    color: yellowgreen;
+    border: 2px solid red;
+    border-radius: 10px;
+    /* text-align: center; */
+}
+.signin__input--pass {
+    margin-bottom: 230px;
+}
+.signin__button {
+    margin-left: 155px;
+    position: absolute;
+    bottom: 200px;
+}
+.signin__button--nut {
+    border: 2px solid red;
+    border-radius: 10px;
+    font-size: 18px;
+    margin-right: 35px;
+}
